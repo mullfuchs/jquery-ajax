@@ -1,0 +1,11 @@
+body{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#pause{
+  background-color: rgb(255, 255, 100);
+  width: 400px;
+  height: 50px;
+  padding: 5px;
+}
